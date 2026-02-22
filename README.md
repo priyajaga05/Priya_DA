@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I’m an aspiring **Data Analyst** who enjoys working with data to uncover patterns, answer business questions, and turn numbers into clear insights.
+Data Analyst who enjoys working with data to uncover patterns, answer business questions, and turn numbers into clear insights.
 
 I mostly work with **Python, SQL, Excel, and BI tools** to clean data, explore trends, and build dashboards that are easy for anyone to understand.
 
