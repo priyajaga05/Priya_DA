@@ -32,7 +32,7 @@ Impact (So Far)
 
 ---
 
-✨ A Bit About Me
+ A Bit About Me
 - Curious and detail-oriented
 - Enjoy simplifying complex data problems
 - Believe good analysis should be **clear, useful, and actionable**
